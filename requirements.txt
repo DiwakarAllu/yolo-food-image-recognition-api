@@ -1,0 +1,6 @@
+Flask
+opencv-python
+ultralytics
+Flask-Cors
+Pillow
+gradio-client
